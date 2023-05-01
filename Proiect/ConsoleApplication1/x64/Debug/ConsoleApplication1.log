@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\Poo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,1): warning C4305: '=': truncation from 'int' to 'char'
+D:\Poo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,18): warning C4309: '=': truncation of constant value
+  ConsoleApplication1.vcxproj -> D:\Poo\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
