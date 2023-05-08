@@ -1,0 +1,2 @@
+C:\Users\Stefan\source\repos\Animals\Animals\x64\Debug\Animals.vcxproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\Animals\Animals\x64\Debug\Animals.vcxproj.SuggestedBindingRedirects.cache
