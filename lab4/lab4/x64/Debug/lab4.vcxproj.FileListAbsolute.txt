@@ -1,0 +1,2 @@
+D:\Poo\lab4\lab4\x64\Debug\lab4.vcxproj.AssemblyReference.cache
+D:\Poo\lab4\lab4\x64\Debug\lab4.vcxproj.SuggestedBindingRedirects.cache
